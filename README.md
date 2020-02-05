@@ -1,7 +1,11 @@
 # Attenuation
 Experimental analysis of load attenuation in mooring lines with reduced scale models
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmaiarocha/Attenuation/master)
+
 _Marcelo M. Rocha, PPGEC/UFRGS_ [(ORCID)](https://orcid.org/0000-0001-5640-1020)
+
+---
 
 [1.   Introduction](https://nbviewer.jupyter.org/github/mmaiarocha/Attenuation/blob/master/01_Introduction.ipynb?flush_cache=true)  
 [2.   Reduced model scaling](https://nbviewer.jupyter.org/github/mmaiarocha/Attenuation/blob/master/02_Reduced_model.ipynb?flush_cache=true)  
